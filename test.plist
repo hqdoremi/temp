@@ -10,7 +10,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://10.236.157.20:8082/api/Runner.ipa</string>
+<string>https://github.com/hqdoremi/temp/blob/master/Runner.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
