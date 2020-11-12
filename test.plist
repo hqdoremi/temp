@@ -10,7 +10,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://http://10.236.157.20:8082/api/Runner.ipa</string>
+<string>http://10.236.157.20:8082/api/Runner.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -18,7 +18,7 @@
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>http://10.234.129.26:8080/jenkins/view/%E5%92%95%E5%99%9C%E6%89%93%E5%8C%85/job/gulu-ios-client/ws/ios/Runner/Assets.xcassets/AppIcon.appiconset/icon1024.png</string>
+<string>http://10.236.157.20:8082/api/collected.png</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -26,7 +26,7 @@
 <key>bundle-identifier</key>
 <string>com.netease.newshd</string>
 <key>bundle-version</key>
-<string>${BUILD_VERSION}</string>
+<string>1.0.0</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
